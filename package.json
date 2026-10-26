@@ -1,0 +1,16 @@
+{
+  "name": "crawlee-shop-scraper",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "start": "node main.ts",
+    "test": "node test.ts"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "dependencies": {
+    "crawlee": "^3.18.1"
+  }
+}
